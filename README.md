@@ -1,118 +1,52 @@
-# ⚡ Khalid Tewfiq
+# Hi, I'm Khalid Tewfik Abdela 👋
 
-Electrical Power & Control Engineering Graduate | Full-Stack Developer
+**Electrical Power & Control Engineering Graduate | Software Developer**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Electrical Power and Control Engineering graduate with a passion for software development, automation, and digital technologies.
-
-My goal is to build solutions that combine engineering principles with modern software technologies.
-
-Currently focusing on:
-
-- Full-Stack Web Development
-- UI/UX Design
-- Software Engineering
-- Power Systems Engineering
-- Industrial Automation & Control
-- Technical Portfolio Development
+I'm an Electrical Power and Control Engineering graduate from Adama Science and Technology University, working across both electrical engineering and software development. I like building tools that bridge the two — from embedded/IoT systems to the software that runs alongside them.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Software Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-### Engineering
-
-- Power System Analysis
-- Control Systems
-- PLC Programming
-- Industrial Automation
-- MATLAB
-- AutoCAD Electrical
-- Electrical Machine Analysis
-
----
-
-## 🚀 Current Roadmap
-
-### Software Engineering
-
-- [ ] Personal Portfolio Website
-- [ ] React Projects
-- [ ] Node.js Backend Development
-- [ ] Full-Stack Applications
-- [ ] Open Source Contributions
-
-### Electrical Engineering
-
-- [ ] Power System Projects
-- [ ] MATLAB Simulations
-- [ ] PLC & SCADA Projects
-- [ ] Protection & Control Studies
+**Engineering:** MATLAB · Proteus · Arduino IDE · C++
+**Software:** Python · SQLite · Tkinter · Flask · FastAPI · Socket.IO
+**Tools:** Git · GitHub · Windows/Linux CLI · WSL · MS Office
 
 ---
 
 ## 📂 Featured Projects
 
-### 💻 Software Projects
+### ⚡ Multi-Functional Smart Streetlight System — BSc Senior Project
+IoT-based smart streetlight system with LDR-based adaptive lighting and environmental sensing (temperature/humidity, air quality, noise). Includes an ILI9341 TFT display, an audio public-address subsystem, and a USB charging station. Firmware built in Arduino IDE/C++ on an Arduino Uno, fully modeled and validated in Proteus 8 Professional, with a Python (Flask/FastAPI) web admin dashboard using Socket.IO for real-time monitoring.
 
-| Project | Description |
-|----------|-------------|
-| Portfolio Website | Personal portfolio showcasing skills and projects |
-| Task Manager | Full-stack productivity application |
-| React Dashboard | Interactive analytics dashboard |
-| Authentication System | Secure login & registration system |
+### 🧮 [EEng_Calc](https://github.com/Khalid-Tewfik/EEng_Calc)
+A modular Python/Tkinter desktop app collecting electrical engineering calculators — Ohm's Law, series/parallel resistance, AC circuit analysis, RLC impedance, resonant frequency, and more — built so new calculators can be added without touching the rest of the app.
 
-### ⚡ Engineering Projects
+### 📊 Learning Tracker
+A Python/Tkinter/SQLite desktop app for tracking electrical and software engineering learning and revision progress, packaged as a standalone .exe.
 
-| Project | Description |
-|----------|-------------|
-| Power Flow Analysis | Electrical network analysis |
-| Motor Control Systems | Industrial motor control implementation |
-| MATLAB Simulations | Engineering simulation projects |
-| PLC Automation | Industrial automation solutions |
+### 🎬 yt-dlp GUI
+A Tkinter-based graphical interface wrapping the yt-dlp Python API.
 
 ---
 
-## 📈 GitHub Statistics
+## 🎓 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- ALX Africa Software Engineering Program — completed February 2025
 
 ---
 
-## 🎯 Career Objective
+## 📈 GitHub Stats
 
-To build a career that bridges Electrical Engineering and Software Development through innovative solutions in:
-
-- Smart Grid Technologies
-- Industrial Automation
-- Control Systems
-- Web Applications
-- Engineering Software
-- Digital Transformation
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalid-Tewfik&show_icons=true&theme=default)
 
 ---
 
 ## 🌍 Connect With Me
 
-- LinkedIn: [Add Your LinkedIn URL]
-- Portfolio: [Add Portfolio URL]
-- Email: [Add Professional Email]
-
----
-
-> "Continuous learning, practical projects, and consistency create opportunities."
+- 📧 khalidtewfiq151@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/khalid-tewfiq-ar)
